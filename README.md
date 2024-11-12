@@ -1,4 +1,4 @@
-# Gemini Boost
+# Gemini para Google Cloud
 
 La ruta de aprendizaje de Gemini para Google Cloud contiene ejemplos de cómo Gemini puede ayudar a los ingenieros de todo tipo a ser más eficientes en sus actividades diarias. 
 Esta ruta de aprendizaje proporciona orientación para múltiples roles, incluidos ingenieros y arquitectos de la nube, ingenieros de seguridad, desarrolladores y analistas de datos.
@@ -33,6 +33,7 @@ Canal , este es nuestro canal principal de comunicación donde te compartiremos 
 
 # Calendario
 En esta imagen podrás consultar las sesiones que tendremos en línea en vivo, las cuales son opcionales para complementar tu auto-estudio en la plataforma de Google Cloud Skills Boost y la ruta de aprendizaje de __"Intermediate: Gemini for Google Cloud Learning Path"__
+
 ![Calendario](https://github.com/user-attachments/assets/1435923b-b792-48d4-aca8-2a64463519dc)
 
 
