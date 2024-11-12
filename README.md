@@ -33,7 +33,7 @@ Canal , este es nuestro canal principal de comunicación donde te compartiremos 
 
 # Calendario
 En esta imagen podrás consultar las sesiones que tendremos en línea en vivo, las cuales son opcionales para complementar tu auto-estudio en la plataforma de Google Cloud Skills Boost y la ruta de aprendizaje de __"Intermediate: Gemini for Google Cloud Learning Path"__
-![Calendario]("https://github.com/user-attachments/assets/1435923b-b792-48d4-aca8-2a64463519dc")
+![Calendario](https://github.com/user-attachments/assets/1435923b-b792-48d4-aca8-2a64463519dc)
 
 
 # Ligas de Zoom
