@@ -1,4 +1,4 @@
-# Gemini para Google Cloud
+# Gemini para Google Cloud - Ruta Intermedio
 
 La ruta de aprendizaje de Gemini para Google Cloud contiene ejemplos de cómo Gemini puede ayudar a los ingenieros de todo tipo a ser más eficientes en sus actividades diarias. 
 Esta ruta de aprendizaje proporciona orientación para múltiples roles, incluidos ingenieros y arquitectos de la nube, ingenieros de seguridad, desarrolladores y analistas de datos.
