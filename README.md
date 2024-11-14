@@ -27,8 +27,8 @@ En futuras ocasiones las rutas iniciadas son accesibles desde el [Panel](https:/
 
 # Actividades
 Además del material de estudio de la plataforma de Google Cloud Skills Boost, tendrás el apoyo del equipo de mentoras de Wizeline. Podrás apoyarte de ellas de las siguientes formas:
-- __Canal de Slack:__ Tendremos 1 canales de slack a los que serás invitada.
-[Canal](https://wizelineacademy.slack.com/archives/C080XKADACS), este es nuestro canal principal de comunicación donde te compartiremos recordatorios de las actividades, noticias, etc.
+- __Canal de Slack:__ Tendremos 1 canal de slack a los que serás invitada.
+[Canal](https://wizelineacademy.slack.com/archives/C080XKADACS), este es nuestro medio principal de comunicación donde te compartiremos recordatorios de las actividades, noticias, etc.
 - __Sesiones “Study Jam”:__ Aquí podrás reforzar conocimientos conforme avanzas en los módulos con el material y temas de apoyo que prepararon las mentoras. Estas sesiones son opcionales y quedarán grabadas para que puedas consultarlas posteriormente.
 
 # Calendario
