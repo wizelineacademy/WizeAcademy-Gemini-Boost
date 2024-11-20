@@ -41,7 +41,16 @@ Te compartimos las ligas de acceso a zoom para las sesiones calendarizadas.
 - [Sesión arranque/cierre](https://wizeline.zoom.us/j/82193461072)
 - [Study Jams](https://wizeline.zoom.us/j/82193461072)
 
-# Material Adicional
+# Mentoría Individual
+Te compartimos las ligas de los calendarios de los mentores, para que de acuerdo al módulo que tengas dudas, selecciones el mentor asignado
+- [Módulo 1 - Gemini for Application Developers / José Vaca](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ10WYJ2m-nmTpMJ4MHbbaGHbe9RkHMrHpgjBWXg5gUnnJRl6PyAC7PXrw668Wg83WOdixzqethu)
+- [Módulo 2 - Gemini for Cloud Architects]
+- [Módulo 3 - Gemini for Data Scientists and Analysts / Lilián Muñoz](https://calendar.app.google/P8VnHZJjxgpkrJQU6)
+- [Módulo 4 - Gemini for Network Engineers / Cristian Buitrago](https://calendar.app.google/rJFCtj9SdfFVjFoA9)
+- [Módulo 5 - Gemini for Security Engineers / Guadalupe de la Loza](https://calendar.app.google/QvSDM8YUTHj56uVY7)
+- [Módulo 6 - Gemini for DevOps Engineers / Cristian Buitrago](https://calendar.app.google/rJFCtj9SdfFVjFoA9)
+- [Módulo 7 - Gemini for end-to-end SDLC / Narda Ballesteros]
+- [Módulo 8 - Develop GenAI Apps with Gemini and Streamlit / Dani Villalobos](https://calendar.app.google/p59Db8Wcpk6UksdC9)
 
 # Grabaciones
 Todas las grabaciones de las sesiones y study jams podrás visualizarlos un día después de la sesión en vivo en la siguiente playlist: [Gen AI Boost Program - Intermedio](https://www.youtube.com/playlist?list=PLQmYtfk1yvf5tNIYvyxHdOrshcImdxZUa)
